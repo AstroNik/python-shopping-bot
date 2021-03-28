@@ -8,6 +8,9 @@ Can be any product on either site.
 
 To Be Tested:
 1. How long the bot can run without crashing
+2. Running multiple instances of the bot so you can watch multiple prodcuts
+3. Containerize application
+4. Run on cloud to see if it still works (headless mode)
 
 Pros:
 1. Can get whatever you want quickly
