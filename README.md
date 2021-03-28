@@ -18,3 +18,12 @@ Pros:
 
 Con:
 1. Not ethical
+
+
+## Future
+
+1. Build a web application that runs on the cloud using flask
+2. Ability to monitor
+3. Multiple users can use the bot
+4. Break code down into reusable and easily changeable components
+5. Add test cases
