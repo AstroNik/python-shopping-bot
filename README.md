@@ -1,6 +1,6 @@
 # Python Shopping Bot
 
-Use Cases are for Amazon and Besbuy
+Use Cases are for Amazon and Bestbuy
 
 Because of Computer Part Storage and the difficulty to purchase products I create a bot that could potentailly buy products for you.
 
