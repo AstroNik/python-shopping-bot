@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+testcase
+.gitignore
+geckodriver.log
+README.md
