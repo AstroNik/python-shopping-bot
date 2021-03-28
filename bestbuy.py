@@ -17,9 +17,9 @@ options.add_argument("--disable-blink-features=AutomationControlled")
 driver = webdriver.Chrome(PATH,options=options)
 
 
-link1 = "https://www.bestbuy.ca/en-ca/product/lg-29-ultrawide-fhd-75hz-5ms-gtg-ips-led-freesync-gaming-monitor-29wl500-b-black/13618806"
+productLink = ""
 
-driver.get(link1)
+driver.get(productLink)
 
 isComplete = False
 
@@ -79,7 +79,7 @@ while not isComplete:
         isComplete = True
 
     except:
-        driver.get("")
+        driver.get(productLink)
         print("Error - restarting bot")
         continue
 
